@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d538c3b.chunk.css",
+    "main.js": "/static/js/main.f6db559a.chunk.js",
+    "main.js.map": "/static/js/main.f6db559a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc70d6df.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc70d6df.js.map",
+    "static/css/2.eabcd0b3.chunk.css": "/static/css/2.eabcd0b3.chunk.css",
+    "static/js/2.7a6c9ef4.chunk.js": "/static/js/2.7a6c9ef4.chunk.js",
+    "static/js/2.7a6c9ef4.chunk.js.map": "/static/js/2.7a6c9ef4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2223fd17c721ab332b54aded0c2c2592.js": "/precache-manifest.2223fd17c721ab332b54aded0c2c2592.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eabcd0b3.chunk.css.map": "/static/css/2.eabcd0b3.chunk.css.map",
+    "static/css/main.6d538c3b.chunk.css.map": "/static/css/main.6d538c3b.chunk.css.map",
+    "static/js/2.7a6c9ef4.chunk.js.LICENSE.txt": "/static/js/2.7a6c9ef4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Cairo-SemiBold.47622f2d.ttf",
+    "static/media/how-img.png": "/static/media/how-img.7c1a3c16.png",
+    "static/media/icon-class.png": "/static/media/icon-class.e891fabc.png",
+    "static/media/icon-students.png": "/static/media/icon-students.03ea5fe4.png",
+    "static/media/icon-task.png": "/static/media/icon-task.3c3bf549.png",
+    "static/media/logo.png": "/static/media/logo.e0945229.png",
+    "static/media/student-img.png": "/static/media/student-img.966c878a.png",
+    "static/media/teacher-img.png": "/static/media/teacher-img.98e9abcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc70d6df.js",
+    "static/css/2.eabcd0b3.chunk.css",
+    "static/js/2.7a6c9ef4.chunk.js",
+    "static/css/main.6d538c3b.chunk.css",
+    "static/js/main.f6db559a.chunk.js"
+  ]
+}
